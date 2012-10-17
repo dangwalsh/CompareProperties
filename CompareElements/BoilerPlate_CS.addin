@@ -17,12 +17,4 @@
     <VendorId>XXXX</VendorId>
     <VendorDescription>XXXX</VendorDescription>
   </AddIn>
-  <AddIn Type="DBApplication">
-    <Name>DBApplication</Name>
-    <Assembly>DW.Events_CS.dll</Assembly>
-    <ClientId>0c75ba8a-8b9c-0d31-b81b-0b77766f138c</ClientId>
-    <FullClassName>DW.Events_CS.DBapp</FullClassName>
-    <VendorId>XXXX</VendorId>
-    <VendorDescription>XXXX</VendorDescription>
-  </AddIn>
 </RevitAddIns>
