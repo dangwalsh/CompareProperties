@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command DW.Events_CS</Text>
+    <Description>DW.Events_CS</Description>
+    <Assembly>DW.Events_CS.dll</Assembly>
+    <FullClassName>DW.Events_CS.cmd</FullClassName>
+    <ClientId>1a903a96-76c7-0002-9e50-2418a2549954</ClientId>
+    <VendorId>XXXX</VendorId>
+    <VendorDescription>XXXX</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application DW.Events_CS</Name>
+    <Assembly>DW.Events_CS.dll</Assembly>
+    <ClientId>310a4e12-bfb2-0c1d-8146-426df94120e9</ClientId>
+    <FullClassName>DW.Events_CS.app</FullClassName>
+    <VendorId>XXXX</VendorId>
+    <VendorDescription>XXXX</VendorDescription>
+  </AddIn>
+  <AddIn Type="DBApplication">
+    <Name>DBApplication</Name>
+    <Assembly>DW.Events_CS.dll</Assembly>
+    <ClientId>0c75ba8a-8b9c-0d31-b81b-0b77766f138c</ClientId>
+    <FullClassName>DW.Events_CS.DBapp</FullClassName>
+    <VendorId>XXXX</VendorId>
+    <VendorDescription>XXXX</VendorDescription>
+  </AddIn>
+</RevitAddIns>
