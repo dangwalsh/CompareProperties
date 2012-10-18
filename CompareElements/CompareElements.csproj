@@ -75,7 +75,6 @@
   <ItemGroup>
     <Compile Include="Entry\app.cs" />
     <Compile Include="Entry\cmd.cs" />
-    <Compile Include="Entry\DBapp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
